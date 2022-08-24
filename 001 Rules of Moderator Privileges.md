@@ -18,3 +18,4 @@ In this Rules Document-
         2. All actions taken should be reported to the admins.
     3. Players may appeal against the actions according to section 6 of the Rules of Rules (Cap. 0).
     4. Moderators, if not admins, must not review their own actions.
+    5. Moderators, if admins, could ignore subsection (2.2) when taking actions.
