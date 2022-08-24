@@ -29,3 +29,4 @@ A player commits theft if he/she takes another's property without a valid consen
 ## 6. Restoration of the swags
 1. The thief should return the swags, or the equivalent, to their owner.
 2. If it is impossible to return the swag or the equivalent, the thief should compensate for the loss. The form and amount of reparation should be discussed and determined between the owner and the thief.
+3. Swags with an unknown owner should be confiscated.
