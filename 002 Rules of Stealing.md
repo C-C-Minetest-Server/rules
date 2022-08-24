@@ -18,7 +18,7 @@ A player commits theft if he/she takes another's property without a valid consen
 
 ## 4. ***Consent***
 1. ***Consent*** includes-
-    1. word from the owner, shows the accent to allow the player to take the properties, and
+    1. word from the owner, shows the assent to allow the player to take the properties, and
     2. trades.
 2. Under the following condition(s), the consent is invalid-
     1. the owner is threatened to make the consent.
