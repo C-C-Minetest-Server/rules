@@ -15,6 +15,8 @@ A player commits theft if he/she takes another's property without a valid consen
 2. The following should not treated as properties-
     1. the content of bones, while the bone is marked as old,
     2. the content of public storage, with an obvious label, shows the storage is for public use, and the owner could see and understand the label when placing the properties inside.
+3. In this section-
+    1. ***Bones*** means the node `bones:bones` with stuff in its inventory.
 
 ## 4. ***Consent***
 1. ***Consent*** includes-
