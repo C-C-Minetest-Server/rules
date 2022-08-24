@@ -7,15 +7,16 @@ This rules document may be cited as the Rules of Rules, the Basic Law, or the Co
 ## 2. Definitions
 In this rules document, and all of the other rules documents-
 
-1. C&C City Survival Server, or The Server, means the Minetest server running on toyshost2.ddns.net port 30050.
-2. Players means users of the C&C City Survival Server.
-3. Administrators, or Admins, mean the hardware owner and the hostmaster of the C&C City Survival Server.
-4. Moderators mean players with the `ban` privilege.
-5. Builders mean players with the `worldedit` privilege.
-6. Penalties mean restricting player rights, including the following:
-   1. Ban means denying players from joining the server.
-   2. Kick means disconnecting the player's clients.
-   3. Revoke means removing privileges from a player.
+1. ***C&C City Survival Server***, or ***The Server***, means the Minetest server running on toyshost2.ddns.net port 30050.
+2. ***Players*** means users of the C&C City Survival Server.
+3. ***Administrators***, or ***Admins***, means the hardware owner and the hostmaster of the C&C City Survival Server.
+4. ***Moderators*** means players with the `ban` privilege.
+5. ***Builders*** means players with the `worldedit` privilege.
+6. ***Penalties*** means restricting player rights, including the following:
+   1. ***Ban*** means denying players from joining the server.
+   2. ***Kick*** means disconnecting the player's clients.
+   3. ***Revoke*** means removing privileges from a player.
+7. ***Review*** means to check the given penalties or a moderator actions (Cap. 1: Rules of Moderator Privileges).
 
 ## 3. Application Scope
 1. This rules document, and all of the rules documents, unless otherwise specified, apply to the C&C City Survival Server.
