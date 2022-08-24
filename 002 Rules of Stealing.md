@@ -25,6 +25,7 @@ A player commits theft if he/she takes another's property without a valid consen
     1. Moderators may give penalties.
     2. The swags should be treated as defined in section (6).
 2. If the thief received an invalid consent from the owner and took the properties according to the invalid consent, the player should not be convicted, though the swags should still be treated as defined in section (6).
+3. If the stolen swags are another thief's swags, the swags should be returned to the thief, and eventually return to the owner, as defined in section (6).
 
 ## 6. Restoration of the swags
 1. The thief should return the swags, or the equivalent, to their owner.
