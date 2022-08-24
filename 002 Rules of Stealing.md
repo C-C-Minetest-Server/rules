@@ -13,10 +13,13 @@ A player commits theft if he/she takes another's property without a valid consen
     2. traded from another player, or
     3. obtained without violating the rules.
 2. The following should not treated as properties-
-    1. the content of bones, while the bone is marked as old.
+    1. the content of bones, while the bone is marked as old,
+    2. the content of public storage, with an obvious label, shows the storage is for public use, and the owner could see and understand the label when placing the properties inside.
 
 ## 4. ***Consent***
-1. ***Consent*** include that in written form, in chatroom messages, and/or oral.
+1. ***Consent*** includes-
+    1. word from the owner, shows the accent to allow the player to take the properties, and
+    2. trades.
 2. Under the following condition(s), the consent is invalid-
     1. the owner is threatened to make the consent.
 
