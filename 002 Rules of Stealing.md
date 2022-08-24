@@ -22,6 +22,8 @@ A player commits theft if he/she takes another's property without a valid consen
     2. trades.
 2. Under the following condition(s), the consent is invalid-
     1. the owner is threatened to make the consent.
+3. In this section-
+    1. ***The player*** means the player that takes (or wants to take) the item.
 
 ## 5. Convictions and Penalties
 1. For players committed theft-
