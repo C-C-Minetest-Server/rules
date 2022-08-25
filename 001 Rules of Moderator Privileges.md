@@ -7,7 +7,7 @@ This rules document may be cited as the Rules of Moderator Privileges.
 ## 2. Definations
 In this Rules Document-
 
-1. ***Actions*** means the actions taken and the commands given by a moderator, that are not defined the any of the rules documents at the time.
+1. ***Actions***, or ***Moderator Actions***, means the actions taken and the commands given by a moderator, that are not defined the any of the rules documents at the time.
 
 ## 3. Moderator Actions
 1. Moderators may take any actions that they deem necessary.

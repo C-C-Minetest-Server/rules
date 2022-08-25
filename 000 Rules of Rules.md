@@ -17,6 +17,7 @@ In this rules document, and all of the other rules documents-
    2. ***Kick*** means disconnecting the player's clients.
    3. ***Revoke*** means removing privileges from a player.
 7. ***Review*** means to check the given penalties or a moderator actions (Cap. 1: Rules of Moderator Privileges).
+8. ***Moderator Actions*** have the same meaning as in Rules of Moderator Privileges (Cap. 1)
 
 ## 3. Application Scope
 1. This rules document, and all of the rules documents, unless otherwise specified, apply to the C&C City Survival Server.
@@ -34,7 +35,7 @@ In this rules document, and all of the other rules documents-
 
 ## 6. Appeal
 1. All players have the right to appeal.
-2. Moderators have the responsibility to review the given penalties on the first appeal of each case.
-3. Moderators have the right to review the given penalties at any time.
-4. Moderators may change the given penalties after a review.
-5. Administrators have the final say on the given penalties.
+2. Moderators have the responsibility to review the given penalties on the first appeal of each case that is given within 7 days from the date of giving penalties or moderator actions.
+3. Moderators have the right to review at any time.
+4. Moderators may change the given penalties, or give another moderator action, after a review.
+5. Administrators have the final say on the given penalties or moderator actions.

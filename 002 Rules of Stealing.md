@@ -4,19 +4,13 @@ To protect the in-game personal property of the players, to define the restorati
 ## 1. Short Title
 This rules document may be cited as the Rules of Stealing.
 
-## 2. Theft
-A player commits theft if he/she takes another's property without a valid consent from the owner.
+## 2. Definations
+In this rules document-
 
-## 3. ***Property***
-1. ***Property*** means stuffs-
-    1. obtained by the player from the wild,
-    2. traded from another player, or
-    3. obtained without violating the rules.
-2. The following should not treated as properties-
-    1. the content of bones, while the bone is marked as old,
-    2. the content of public storage, with an obvious label, shows the storage is for public use, and the owner could see and understand the label when placing the properties inside.
-3. In this section-
-    1. ***Bones*** means the node `bones:bones` with stuff in its inventory.
+1. ***Property*** or ***properties*** have the same meaning as in the Rules of Properties (Cap. 3)
+
+## 3. Theft
+A player commits theft if he/she takes another's property without a valid consent from the owner.
 
 ## 4. ***Consent***
 1. ***Consent*** includes-
@@ -38,3 +32,4 @@ A player commits theft if he/she takes another's property without a valid consen
 1. The thief should return the swags, or the equivalent, to their owner.
 2. If it is impossible to return the swag or the equivalent, the thief should compensate for the loss. The form and amount of reparation should be discussed and determined between the owner and the thief.
 3. Swags with an unknown owner should be confiscated.
+4. Any order under this section shall be treated as an order of the restitution of property or an order of confiscation, with the meaning of section 4 of the Rules of Properties (Cap. 3). *\[cf. 24/06/2021 c. 210 s. 30 H.K.]*
