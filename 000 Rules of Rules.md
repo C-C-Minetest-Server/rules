@@ -18,6 +18,7 @@ In this rules document, and all of the other rules documents-
    3. ***Revoke*** means removing privileges from a player.
 7. ***Review*** means to check the given penalties or a moderator actions (Cap. 1: Rules of Moderator Privileges).
 8. ***Moderator Actions*** have the same meaning as in Rules of Moderator Privileges (Cap. 1)
+9. ***Rules*** includes all of the rules documents.
 
 ## 3. Application Scope
 1. This rules document, and all of the rules documents, unless otherwise specified, apply to the C&C City Survival Server.
